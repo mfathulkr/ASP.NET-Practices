@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "gMuaOQGjiEvC8YO3UxC/8Mno7QfDxS96QWD3AYxZX2Nn6L2Z6g/ws3VtEmcMteWRP4EhIGUIImdPIhaIz/phZA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mehmet Fatih ÜLKER\\source\\repos\\ReceiptScanner\\ReceiptScanner\\ReceiptScanner.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mehmet Fatih ÜLKER\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.5\\microsoft.aspnetcore.openapi.7.0.5.nupkg.sha512",
+    "C:\\Users\\Mehmet Fatih ÜLKER\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\Mehmet Fatih ÜLKER\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\Mehmet Fatih ÜLKER\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\Mehmet Fatih ÜLKER\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\Mehmet Fatih ÜLKER\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\Mehmet Fatih ÜLKER\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\Mehmet Fatih ÜLKER\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
